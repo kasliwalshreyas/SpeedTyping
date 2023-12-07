@@ -1,8 +1,10 @@
+### Live Website: [SpeedTyping](https://key-snaps-frontend.vercel.app/home)
+
 ## To run on local system :
 
 ### Server
 
-* GIT clone the repo from : `````` 
+* GIT clone the repo from : ```https://github.com/kasliwalshreyas/SpeedTyping.git``` 
 
 * Enter the Backend Folder : ```cd Backend``` 
 
@@ -16,7 +18,7 @@
 
 ### Client
 
-* GIT clone the repo from : ``````
+* GIT clone the repo from : ```https://github.com/kasliwalshreyas/SpeedTyping.git```
 
 * Enter the Frontend Folder : ```cd Frontend``` 
 
