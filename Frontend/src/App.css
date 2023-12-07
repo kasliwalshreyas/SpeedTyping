@@ -1,0 +1,100 @@
+#game_words {
+  display: inline;
+}
+
+#game_words:focus-visible {
+  outline: 0;
+}
+
+.doneWords {
+  display: inline;
+  font-family: monospace;
+  font-size: 1.5rem;
+}
+
+.bg-green-200 {
+  display: inline;
+  color: rgb(37, 205, 37);
+  font-family: monospace;
+  font-size: 1.5rem;
+}
+
+.bg-red-200 {
+  display: inline;
+  color: red;
+  font-family: monospace;
+  font-size: 1.5rem;
+}
+
+.cursor {
+  display: inline;
+  font-size: 1.5rem;
+}
+
+.cursor {
+  animation: cursor-blink 1s infinite;
+}
+
+
+@keyframes cursor-blink {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+
+}
+
+
+.pendingWords {
+  display: inline;
+  color: dimgray;
+  font-family: monospace;
+  font-size: 1.5rem;
+}
+
+
+
+.short {
+  width: 80%;
+  margin: auto;
+}
+
+/* .link {
+  text-decoration: none;
+  color: #1c7ed6;
+} */
+
+/* 
+
+.fancytexthover {
+  font-size: 72px;
+  position: relative;
+  display: inline-block;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.fancytexthover:hover .textwrapper {
+  width: 100%;
+}
+
+.textwrapper {
+  font-size: 72px;
+  position: absolute;
+  display: inline-block;
+  overflow: hidden;
+  width: 0;
+  display: inline-block;
+  white-space: pre;
+  color: #fff;
+  transition: width 500ms;
+  border-bottom: 1px solid;
+  padding-bottom: 0.15em;
+} */
